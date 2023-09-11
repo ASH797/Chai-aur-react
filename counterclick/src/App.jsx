@@ -26,7 +26,7 @@ function App() {
       </button>
 
       {counter}
-
+      <h1>Halo commit</h1>
     </div>
 
   )
